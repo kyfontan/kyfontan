@@ -100,22 +100,6 @@ Co-designing a full Rust piscine curriculum covering ownership, concurrency, and
 </td>
 <td width="50%">
 
-<h3 align="center">🧠 42llm</h3>
-<p align="center">
-<a href="https://github.com/kyfontan/42llm">
-42 LLM subjects and admin tools — exploring AI optimization, inference pipelines, and model quantization.
-</a>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/AI-0d1117?style=flat-square&logo=openai&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/LLM-0d1117?style=flat-square&logo=meta&logoColor=a855f7"/>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 <h3 align="center">⚡ rustperf</h3>
 <p align="center">
 <a href="https://github.com/kyfontan/rustperf">
@@ -129,17 +113,6 @@ Performance benchmarking and profiling tools built in Rust. Microbenchmarks, fla
 
 </td>
 <td width="50%">
-
-<h3 align="center">🔍 SearchAndReplace</h3>
-<p align="center">
-<a href="https://github.com/kyfontan/SearchAndReplace">
-A fast search and replace tool built in pure C — no dependencies, just pointer arithmetic and raw speed.
-</a>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/CLI-0d1117?style=flat-square&logo=gnubash&logoColor=a855f7"/>
-</p>
 
 </td>
 </tr>
