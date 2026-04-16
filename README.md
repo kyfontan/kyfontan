@@ -111,10 +111,6 @@ Performance benchmarking and profiling tools built in Rust. Microbenchmarks, fla
 <img src="https://img.shields.io/badge/Performance-0d1117?style=flat-square&logo=speedtest&logoColor=a855f7"/>
 </p>
 
-</td>
-<td width="50%">
-
-</td>
 </tr>
 </table>
 </div>
