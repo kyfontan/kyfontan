@@ -13,15 +13,20 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
+
+<!-- Portfolio -->
 <a href="https://portfolio-nbb9.onrender.com/">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=a855f7" alt="Portfolio"/>
 </a>
+<!-- Linkedin -->
 <a href="https://www.linkedin.com/in/kyllian-fontanille/">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a855f7" alt="LinkedIn"/>
 </a>
+<!-- Mail -->
 <a href="mailto:fontanillekylliann@email.com">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email"/>
 </a>
+<!-- Views -->
 <img src="https://komarev.com/ghpvc/?username=kyfontan&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
@@ -39,8 +44,6 @@ section .data
     motto   db "Close to the metal. Every cycle counts.", 0
 ```
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyfontan&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=8b949e&ring_color=a855f7" />
-
 - 🔩 **Low-level developer** focused on performance & optimization
 - 🧠 Exploring **AI optimization** — faster inference, leaner models
 - 🎓 **Student at [42 Perpignan](https://42perpignan.fr/)** — started Nov 2025
@@ -55,26 +58,33 @@ section .data
 <!-- TECH STACK -->
 ## `> cat /proc/skills`
 
+<!--
+  Each badge is a clickable link to its official documentation.
+  To add/remove a badge: copy a line below and edit the 3 fields:
+    1. href     → documentation URL
+    2. Name     → label shown on the badge (use %20 for spaces, __ for underscore)
+    3. logo     → simple-icons slug (https://simpleicons.org/)
+-->
+
 <div align="center">
 
 #### ⚙️ Systems & Low-Level
-<img src="https://skillicons.dev/icons?i=c,rust,linux,bash&theme=dark" alt="Systems"/>
+<a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=a855f7" alt="C"/></a>
+<a href="https://www.rust-lang.org/learn"><img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=a855f7" alt="Rust"/></a>
+<a href="https://www.nasm.us/docs.php"><img src="https://img.shields.io/badge/NASM-0d1117?style=for-the-badge&logo=assemblyscript&logoColor=a855f7" alt="NASM"/></a>
+<a href="https://www.kernel.org/doc/html/latest/"><img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=a855f7" alt="Linux"/></a>
+<a href="https://www.gnu.org/software/bash/manual/"><img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=a855f7" alt="Bash"/></a>
 
 #### 🧠 AI & Tooling
-<img src="https://skillicons.dev/icons?i=python,pytorch,docker,vim,vscode&theme=dark" alt="AI & Tools"/>
+<a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=a855f7" alt="Python"/></a>
+<a href="https://pytorch.org/docs/stable/index.html"><img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=a855f7" alt="PyTorch"/></a>
+<a href="https://docs.nvidia.com/cuda/"><img src="https://img.shields.io/badge/CUDA-0d1117?style=for-the-badge&logo=nvidia&logoColor=a855f7" alt="CUDA"/></a>
+<a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=a855f7" alt="Docker"/></a>
 
-#### 🌐 Web & Other
-<img src="https://skillicons.dev/icons?i=html,css,js,java,git,github&theme=dark" alt="Web"/>
-
-<br/>
-
-<!-- ARCHITECTURE BADGES -->
-<img src="https://img.shields.io/badge/ELF64-0d1117?style=flat-square&logo=linux&logoColor=a855f7" alt="ELF64"/>
-<img src="https://img.shields.io/badge/ARM64-0d1117?style=flat-square&logo=arm&logoColor=a855f7" alt="ARM64"/>
-<img src="https://img.shields.io/badge/x86__64-0d1117?style=flat-square&logo=intel&logoColor=a855f7" alt="x86_64"/>
-<img src="https://img.shields.io/badge/NASM-0d1117?style=flat-square&logo=assemblyscript&logoColor=a855f7" alt="NASM"/>
-<img src="https://img.shields.io/badge/Apple_Silicon-0d1117?style=flat-square&logo=apple&logoColor=a855f7" alt="Apple Silicon"/>
-<img src="https://img.shields.io/badge/CUDA-0d1117?style=flat-square&logo=nvidia&logoColor=a855f7" alt="CUDA"/>
+#### 🏗️ Architectures
+<a href="https://developer.arm.com/documentation"><img src="https://img.shields.io/badge/ARM64-0d1117?style=for-the-badge&logo=arm&logoColor=a855f7" alt="ARM64"/></a>
+<a href="https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html"><img src="https://img.shields.io/badge/x86__64-0d1117?style=for-the-badge&logo=intel&logoColor=a855f7" alt="x86_64"/></a>
+<a href="https://developer.apple.com/documentation/apple-silicon"><img src="https://img.shields.io/badge/Apple%20Silicon-0d1117?style=for-the-badge&logo=apple&logoColor=a855f7" alt="Apple Silicon"/></a>
 
 </div>
 
@@ -122,7 +132,6 @@ Performance benchmarking and profiling tools built in Rust. Microbenchmarks, fla
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kyfontan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=8b949e&ring_color=a855f7&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kyfontan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
